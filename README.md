@@ -4,5 +4,6 @@
 
 | Date       | Lab | Tasks                         |
 |------------|-----|-------------------------------|
-| 28/5/2025  | 1   | - [Array](./L1/array.cpp)      |
-| 04/6/2025  | 2   | - [Easy](./L2/easy.cpp) <br> - [Medium](./L2/medium.cpp) <br> - [Hard](./L2/hard.cpp) |
+| 28/5/2025  | 1   | - [Array](./24003425_harith_L1.cpp)      |
+| 04/6/2025  | 2   | - [Easy](./24003425_harith_L2_Easy.cpp) <br> - [Medium](./24003425_harith_L2_Medium.cpp) <br> - [Hard](./24003425_harith_L2_Hard.cpp) |
+| 11/6/2025  | 1   | - [Array](./24003425_harith_L3.cpp)     
