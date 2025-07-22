@@ -2,7 +2,7 @@
 id: 24003426
 name: harith
 group: g2
-lab: Queue Array
+lab: Tree
 */
 
 #include <iostream>
