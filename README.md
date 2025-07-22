@@ -17,6 +17,6 @@
 
 | Date       |      Title      | Files                        |
 |------------|-----------------|------------------------------|
-| 22/7/2025  | Merge VS Sort   | - [Final Projecr](./L1)      |
+| 22/7/2025  | Merge VS Sort   | - [Final Project](./FinalProject)      |
 
 
