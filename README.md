@@ -11,3 +11,12 @@
 | 26/6/2025  | 5   | - [Stack](./L5/24003426_harith_L5_Stack.cpp)  |
 | 03/7/2025  | 6   | - [Queue](./L6/24003426_harith_L6_Queue.cpp) <br> - [Array Queue](./L6/24003426_harith_L6_QueueArray.cpp) <br> - [Circular Queue](./L6/24003426_harith_L6_CircularQueue.cpp) |
 | 10/7/2025  | 7   | - [Tree](./L7/24003426_harith_L7_Tree.cpp)      |
+| 17/7/2025  | 8   | - [BinarySearchTree](./L8/24003426_harith_L7_BinarySearchTree.cpp)      |
+
+## Final Project
+
+| Date       |      Title      | Files                        |
+|------------|-----------------|------------------------------|
+| 22/7/2025  | Merge VS Sort   | - [Final Project](./FinalProject)      |
+
+
